@@ -7,7 +7,9 @@ Installation instructions:
 1. Install Automatic Differentiation toolbox for Matlab (ADiMat), available at https://www.sc.informatik.tu-darmstadt.de/res/sw/adimat/
 2. Add path ~/shmcmc (HMCMC functions) to Matlab search path
 3. Examples scripts
+
 3a. Demo_hmcmc_mcmc: compare the performance of Hamiltonian MCMC and Metropolis-MCMC (Figure 1 in the paper)
+
 3b. SiOx_SAXS_SHMCMC: SAXS data (for Figure 2)
   shmcmc_SAXS.m: script to run SHMCMC
   shmcmc_SAXS_result_analysis.m: script to analyze and plot the results.
