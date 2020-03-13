@@ -1,7 +1,7 @@
 # SHMCMC
  Subspace Hamiltonian Markov Chain Monte Carlo
 
-SHMCMC accompanies the paper: Efficient X-ray and Neutron Data Analysis with Subspace Hamiltonian Markov Chain Monte Carlo
+Matlab codes accompaning the paper: Efficient X-ray and Neutron Data Analysis with Subspace Hamiltonian Markov Chain Monte Carlo
 
 Installation instructions:
 1. Install Automatic Differentiation toolbox for Matlab (ADiMat), available at https://www.sc.informatik.tu-darmstadt.de/res/sw/adimat/
