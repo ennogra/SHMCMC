@@ -17,5 +17,6 @@ Example script folders
 6. PSS_NRef_SHMCMC: neutron reflectivity (for Figure 6)
 7. PSS_NRef_HMCMC: neutron reflectivity (for Figure S2)
 
-Animations for the comparison of HMCMC and SHMCMC
-1. XWFH_movie
+Animations for the comparison of HMCMC and SHMCMC in folder XWFH_movie 
+1. HMCMC_XWFH_100fps_2000iterations.avi : HMCMC (for Figure 5)
+2. SHMCMC_XWFH_5fps_50iterations.avi : SMCMC (for Figure 4)
