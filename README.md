@@ -1,12 +1,13 @@
 # SHMCMC
  Subspace Hamiltonian Markov Chain Monte Carlo
 
-Matlab codes accompaning the paper: An Efficient Inverse Method for X-ray and Neutron Data with Subspace Hamiltonian Markov Chain Monte Carlo
+Matlab codes accompaning the paper: An Efficient Inverse Method for X-ray and Neutron Data with Subspace Hamiltonian Markov-Chain Monte Carlo
 
 Installation instructions:
 1. Install Automatic Differentiation toolbox for Matlab (ADiMat), available at https://www.sc.informatik.tu-darmstadt.de/res/sw/adimat/
-2. Download multiESS.m, available at https://github.com/lacerbi/multiESS
-3. Add path ~/shmcmc (HMCMC functions) to Matlab search path
+2. Requires the Statistics and Machine Learning Toolbox for Matlab 
+3. Download multiESS.m, available at https://github.com/lacerbi/multiESS
+4. Add path ~/shmcmc (HMCMC functions) to Matlab search path
 
 Example script folders
 1. Demo_hmcmc_mcmc: compare the performance of Hamiltonian MCMC and Metropolis-MCMC (Figure 2 in the paper)
